@@ -1,0 +1,1 @@
+sanitizeFilename = require('sanitize-filename');
